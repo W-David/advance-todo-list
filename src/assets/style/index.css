@@ -1,0 +1,12 @@
+html, body, #app {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
